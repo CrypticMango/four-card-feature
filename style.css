@@ -39,17 +39,14 @@ h3 {
 }
 
 img {
-    width: 55px;
-    margin-top: 30px;
+	width: 55px;
+	margin-top: 30px;
 	position: relative;
-    left: 195px;
+	left: 195px;
 }
 
 .reliable-delivery {
 	font-weight: 300;
-}
-
-.powered-tech {
 }
 
 .top-blurb {
@@ -94,7 +91,7 @@ img {
 	font-size: 11px;
 	text-align: center;
 	color: var(--very-dark-blue);
-    padding-top: 20px;
+	padding-top: 20px;
 }
 .attribution a {
 	color: hsl(228, 45%, 44%);
