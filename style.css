@@ -97,18 +97,37 @@ img {
 	color: hsl(228, 45%, 44%);
 }
 
+@media (min-width: 280px) {
+	img {
+		position: relative;
+		left: 95px;
+	}
+}
+
 @media (min-width: 300px) and (max-width: 370px) {
 	body {
 		margin: 60px 10px 35px 10px;
 	}
 
 	h1 {
-		font-size: 18px;
+		font-size: 20px;
 	}
 
 	img {
 		position: relative;
 		left: 135px;
+	}
+}
+
+@media (min-width: 540px) {
+	body {
+		margin: 60px 90px 35px 90px;
+	}
+}
+
+@media (min-width: 768px) {
+	body {
+		margin: 60px 200px 35px 200px;
 	}
 }
 
