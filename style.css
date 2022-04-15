@@ -96,3 +96,10 @@ img {
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
+
+
+@media (min-width: 820px) and (max-width: 1000px) {
+	body {
+		margin: 60px 225px 35px 225px;
+	}
+}
