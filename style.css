@@ -98,7 +98,7 @@ img {
 	color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 280px) {
+@media (min-width: 280px) and (max-width:299) {
 	img {
 		position: relative;
 		left: 95px;
