@@ -62,7 +62,7 @@ img {
 .calculator-card {
 	background-color: white;
 	border-radius: 5px;
-	box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.342);
+	box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.075);
 	text-align: left;
 	margin: 60px 35px 25px 35px;
 	padding: 25px;
