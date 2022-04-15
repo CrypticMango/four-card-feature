@@ -97,8 +97,23 @@ img {
 	color: hsl(228, 45%, 44%);
 }
 
+@media (min-width: 300px) and (max-width: 370px) {
+	body {
+		margin: 60px 10px 35px 10px;
+	}
 
-@media (min-width: 820px) and (max-width: 1000px) {
+	h1 {
+		font-size: 18px;
+	}
+
+	img {
+		position: relative;
+		left: 135px;
+	}
+}
+
+
+@media (min-width: 800px) and (max-width: 915px) {
 	body {
 		margin: 60px 225px 35px 225px;
 	}
